@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\Savings\bin\Debug\Savings.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\Savings\bin\Debug\Savings.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\Savings\bin\Debug\Savings.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\Savings\obj\Debug\Savings.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\Savings\obj\Debug\Savings.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\Savings\obj\Debug\Savings.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\Savings\obj\Debug\Savings.pdb
