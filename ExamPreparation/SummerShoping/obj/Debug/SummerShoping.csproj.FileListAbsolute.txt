@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SummerShoping\bin\Debug\SummerShoping.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SummerShoping\bin\Debug\SummerShoping.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SummerShoping\bin\Debug\SummerShoping.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SummerShoping\obj\Debug\SummerShoping.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SummerShoping\obj\Debug\SummerShoping.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SummerShoping\obj\Debug\SummerShoping.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SummerShoping\obj\Debug\SummerShoping.pdb

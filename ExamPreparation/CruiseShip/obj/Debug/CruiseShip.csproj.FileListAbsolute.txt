@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseShip\bin\Debug\CruiseShip.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseShip\bin\Debug\CruiseShip.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseShip\bin\Debug\CruiseShip.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseShip\obj\Debug\CruiseShip.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseShip\obj\Debug\CruiseShip.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseShip\obj\Debug\CruiseShip.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseShip\obj\Debug\CruiseShip.csprojAssemblyReference.cache

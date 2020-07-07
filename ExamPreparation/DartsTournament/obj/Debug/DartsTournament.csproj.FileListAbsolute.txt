@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\DartsTournament\bin\Debug\DartsTournament.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\DartsTournament\bin\Debug\DartsTournament.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\DartsTournament\bin\Debug\DartsTournament.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\DartsTournament\obj\Debug\DartsTournament.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\DartsTournament\obj\Debug\DartsTournament.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\DartsTournament\obj\Debug\DartsTournament.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\DartsTournament\obj\Debug\DartsTournament.pdb
