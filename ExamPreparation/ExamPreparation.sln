@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CruiseShip", "CruiseShip\Cr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DartsTournament", "DartsTournament\DartsTournament.csproj", "{8239C86F-CE0E-47DD-8AA9-AAD992E4A41C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CruiseGames", "CruiseGames\CruiseGames.csproj", "{F66A58B4-41CF-47A5-B92E-32966FA2786E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakingCompetition", "BakingCompetition\BakingCompetition.csproj", "{269827D5-9555-4D3C-8C78-4E137E53FA10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{8239C86F-CE0E-47DD-8AA9-AAD992E4A41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8239C86F-CE0E-47DD-8AA9-AAD992E4A41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8239C86F-CE0E-47DD-8AA9-AAD992E4A41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66A58B4-41CF-47A5-B92E-32966FA2786E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66A58B4-41CF-47A5-B92E-32966FA2786E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66A58B4-41CF-47A5-B92E-32966FA2786E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66A58B4-41CF-47A5-B92E-32966FA2786E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269827D5-9555-4D3C-8C78-4E137E53FA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269827D5-9555-4D3C-8C78-4E137E53FA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269827D5-9555-4D3C-8C78-4E137E53FA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269827D5-9555-4D3C-8C78-4E137E53FA10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

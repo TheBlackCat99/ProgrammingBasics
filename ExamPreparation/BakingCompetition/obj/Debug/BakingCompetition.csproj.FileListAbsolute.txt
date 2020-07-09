@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\BakingCompetition\bin\Debug\BakingCompetition.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\BakingCompetition\bin\Debug\BakingCompetition.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\BakingCompetition\bin\Debug\BakingCompetition.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\BakingCompetition\obj\Debug\BakingCompetition.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\BakingCompetition\obj\Debug\BakingCompetition.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\BakingCompetition\obj\Debug\BakingCompetition.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\BakingCompetition\obj\Debug\BakingCompetition.pdb

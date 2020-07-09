@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseGames\obj\Debug\CruiseGames.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseGames\obj\Debug\CruiseGames.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseGames\bin\Debug\CruiseGames.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseGames\bin\Debug\CruiseGames.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseGames\bin\Debug\CruiseGames.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseGames\obj\Debug\CruiseGames.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\CruiseGames\obj\Debug\CruiseGames.pdb

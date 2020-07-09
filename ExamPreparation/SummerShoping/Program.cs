@@ -20,24 +20,24 @@
             decimal towelPrice = decimal.Parse(Console.ReadLine());
 
             Console.Write("Discount in %: ");
-            int discount = int.Parse(Console.ReadLine());
+            decimal discount = int.Parse(Console.ReadLine());
 
-            decimal umbrellaPrice = 2 * (towelPrice / 3); // umbrella = 1/3 of towel's price
+            decimal umbrellaPrice = 2 * (towelPrice / 3); // umbrella = 2/3 of towel's price
 
-            decimal flipFlopPrice = umbrellaPrice * 0.75m; // flip-flops = 75% from the umbrella
+            decimal flipFlopsPrice = umbrellaPrice * 0.75m; // flip-flops = 75% from the umbrella's price
 
-            decimal bagPrice = (flipFlopPrice + towelPrice) / 3; // bag is 1/3 from flip-flop + towel prices
+            decimal bagPrice = (flipFlopsPrice + towelPrice) / 3; // bag is 1/3 from flip-flops + towel prices
 
-            decimal total = towelPrice + umbrellaPrice + bagPrice + flipFlopPrice;
-            decimal totalSumWithDiscount = total - (total * discount / 100);
+            decimal total = towelPrice + umbrellaPrice + bagPrice + flipFlopsPrice;
+            total -= total * discount / 100; // substracts discount from total price
 
-            if (budget >= totalSumWithDiscount)
+            if (budget >= total)
             {
-                Console.WriteLine($"Annie's sum is {totalSumWithDiscount:F2} lv. She has {budget - totalSumWithDiscount:F2} lv. left.");
+                Console.WriteLine($"Annie's sum is {total:F2} lv. She has {budget - total:F2} lv. left.");
             }
             else
             {
-                Console.WriteLine($"Annie's sum is {totalSumWithDiscount:F2} lv. She needs {totalSumWithDiscount - budget:F2} lv. more.");
+                Console.WriteLine($"Annie's sum is {total:F2} lv. She needs {total - budget:F2} lv. more.");
             }
 
             Console.ReadLine();

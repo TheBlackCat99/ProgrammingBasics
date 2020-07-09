@@ -28,21 +28,6 @@
             decimal totalMoneySaved = moneyLeftToSavePerMonth * monthsToSave;
             decimal percentSavedPerMonth = (moneyLeftToSavePerMonth / incomePerMonth) * 100;
 
-            if (incomePerMonth < 1500 || incomePerMonth > 10000)
-            {
-                Console.WriteLine("Income cannot be less than 1500 or greater than 10 000!");
-            }
-
-            if (personalExpenses < 300 || personalExpenses > 1000)
-            {
-                Console.WriteLine("Personal expense cannot be less than 300 or greater than 1000!");
-            }
-
-            if (monthsToSave < 3 || monthsToSave > 12)
-            {
-                Console.WriteLine("Months for saving cannot be less than 3 or more than 12!");
-            }
-
             Console.WriteLine($"She can save {percentSavedPerMonth:F2}%");
             Console.WriteLine($"{totalMoneySaved:F2}");
 

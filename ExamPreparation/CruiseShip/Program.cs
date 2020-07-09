@@ -12,7 +12,6 @@
         public static void Main()
         {
             decimal costPerNightPerPerson = 0;
-            bool isDiscount = false;
             const int FamilyMembers = 4;
 
             Console.WriteLine("Choose type of cruise from Mediterranean/Adriatic/Aegean");
@@ -24,72 +23,57 @@
             Console.Write("Choose number of nights: ");
             int nights = int.Parse(Console.ReadLine());
 
-            if (nights > 7)
+            switch (typeOfCruise)
             {
-                isDiscount = true;
-            }
-            else if (typeOfCruise != "Mediterranean" && typeOfCruise != "Adriatic" && typeOfCruise != "Aegean")
-            {
-                Console.WriteLine("Incorrect destination!");
-            }
-            else if (typeOfCabin != "standard cabin" && typeOfCabin != "cabin with balcony" && typeOfCabin != "apartment")
-            {
-                Console.WriteLine("Incorrect type of cabin!");
-            }
-            else if (nights < 1 || nights > 50)
-            {
-                Console.WriteLine("Incorrect number of nights!");
-            }
+                case "Mediterranean":
+                    switch (typeOfCabin)
+                    {
+                        case "standard cabin":
+                            costPerNightPerPerson = 27.50m;
+                            break;
+                        case "cabin with balcony":
+                            costPerNightPerPerson = 30.20m;
+                            break;
+                        case "apartment":
+                            costPerNightPerPerson = 40.50m;
+                            break;
+                    }
+                    break;
 
-            if (typeOfCruise == "Mediterranean")
-            {
-                if (typeOfCabin == "standard cabin")
-                {
-                    costPerNightPerPerson = 27.50m;
-                }
-                else if (typeOfCabin == "cabin with balcony")
-                {
-                    costPerNightPerPerson = 30.20m;
-                }
-                else if (typeOfCabin == "apartment")
-                {
-                    costPerNightPerPerson = 40.50m;
-                }
-            }
-            else if (typeOfCruise == "Adriatic")
-            {
-                if (typeOfCabin == "standard cabin")
-                {
-                    costPerNightPerPerson = 22.99m;
-                }
-                else if (typeOfCabin == "cabin with balcony")
-                {
-                    costPerNightPerPerson = 25.00m;
-                }
-                else if (typeOfCabin == "apartment")
-                {
-                    costPerNightPerPerson = 34.99m;
-                }
-            }
-            else if (typeOfCruise == "Aegean")
-            {
-                if (typeOfCabin == "standard cabin")
-                {
-                    costPerNightPerPerson = 23.00m;
-                }
-                else if (typeOfCabin == "cabin with balcony")
-                {
-                    costPerNightPerPerson = 26.60m;
-                }
-                else if (typeOfCabin == "apartment")
-                {
-                    costPerNightPerPerson = 39.80m;
-                }
+                case "Adriatic":
+                    switch (typeOfCabin)
+                    {
+                        case "standard cabin":
+                            costPerNightPerPerson = 22.99m;
+                            break;
+                        case "cabin with balcony":
+                            costPerNightPerPerson = 25.00m;
+                            break;
+                        case "apartment":
+                            costPerNightPerPerson = 34.99m;
+                            break;
+                    }
+                    break;
+
+                case "Aegean":
+                    switch (typeOfCabin)
+                    {
+                        case "standard cabin":
+                            costPerNightPerPerson = 23.00m;
+                            break;
+                        case "cabin with balcony":
+                            costPerNightPerPerson = 26.60m;
+                            break;
+                        case "apartment":
+                            costPerNightPerPerson = 39.80m;
+                            break;
+                    }
+                    break;
             }
 
             decimal totalSum = FamilyMembers * costPerNightPerPerson * nights;
 
-            if (isDiscount)
+            if (nights > 7)
             {
                 totalSum -= totalSum * 0.25m;
             }

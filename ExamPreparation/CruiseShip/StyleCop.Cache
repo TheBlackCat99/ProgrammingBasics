@@ -29,14 +29,11 @@
       </violation>
     </violations>
   </sourcecode>
-  <project key="-1765759649">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="Program.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2020-07-04 09:20:40.422</styleCop>
       <settingsFile>2020-07-04 09:20:40.330</settingsFile>
-      <sourceFile>2020-07-07 23:16:47.872</sourceFile>
+      <sourceFile>2020-07-09 22:58:15.471</sourceFile>
       <parser>2020-07-04 09:20:40.422</parser>
       <StyleCop.CSharp.DocumentationRules>2020-07-04 09:20:40.422</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>650036121</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -69,6 +66,24 @@
         <line>12</line>
         <warning>False</warning>
       </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>40</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>55</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>70</line>
+        <warning>False</warning>
+      </violation>
     </violations>
   </sourcecode>
+  <project key="-1765759649">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>
