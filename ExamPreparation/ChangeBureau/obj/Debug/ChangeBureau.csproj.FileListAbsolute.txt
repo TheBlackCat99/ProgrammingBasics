@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChangeBureau\bin\Debug\ChangeBureau.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChangeBureau\bin\Debug\ChangeBureau.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChangeBureau\bin\Debug\ChangeBureau.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChangeBureau\obj\Debug\ChangeBureau.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChangeBureau\obj\Debug\ChangeBureau.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChangeBureau\obj\Debug\ChangeBureau.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChangeBureau\obj\Debug\ChangeBureau.pdb

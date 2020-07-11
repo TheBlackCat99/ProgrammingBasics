@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\TrekkingMania\bin\Debug\TrekkingMania.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\TrekkingMania\bin\Debug\TrekkingMania.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\TrekkingMania\bin\Debug\TrekkingMania.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\TrekkingMania\obj\Debug\TrekkingMania.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\TrekkingMania\obj\Debug\TrekkingMania.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\TrekkingMania\obj\Debug\TrekkingMania.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\TrekkingMania\obj\Debug\TrekkingMania.csprojAssemblyReference.cache

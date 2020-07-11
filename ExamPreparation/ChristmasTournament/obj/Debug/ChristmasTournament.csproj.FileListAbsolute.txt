@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChristmasTournament\bin\Debug\ChristmasTournament.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChristmasTournament\bin\Debug\ChristmasTournament.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChristmasTournament\bin\Debug\ChristmasTournament.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChristmasTournament\obj\Debug\ChristmasTournament.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChristmasTournament\obj\Debug\ChristmasTournament.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChristmasTournament\obj\Debug\ChristmasTournament.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\ChristmasTournament\obj\Debug\ChristmasTournament.pdb

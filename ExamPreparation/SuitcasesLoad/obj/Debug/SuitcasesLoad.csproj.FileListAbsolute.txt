@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SuitcasesLoad\bin\Debug\SuitcasesLoad.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SuitcasesLoad\bin\Debug\SuitcasesLoad.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SuitcasesLoad\bin\Debug\SuitcasesLoad.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SuitcasesLoad\obj\Debug\SuitcasesLoad.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SuitcasesLoad\obj\Debug\SuitcasesLoad.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SuitcasesLoad\obj\Debug\SuitcasesLoad.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\SuitcasesLoad\obj\Debug\SuitcasesLoad.pdb

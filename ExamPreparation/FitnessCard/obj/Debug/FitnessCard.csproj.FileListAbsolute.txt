@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\FitnessCard\bin\Debug\FitnessCard.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\FitnessCard\bin\Debug\FitnessCard.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\FitnessCard\bin\Debug\FitnessCard.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\FitnessCard\obj\Debug\FitnessCard.csprojAssemblyReference.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\FitnessCard\obj\Debug\FitnessCard.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\FitnessCard\obj\Debug\FitnessCard.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\FitnessCard\obj\Debug\FitnessCard.pdb

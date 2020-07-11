@@ -1,0 +1,7 @@
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\MountainRun\bin\Debug\MountainRun.exe.config
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\MountainRun\bin\Debug\MountainRun.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\MountainRun\bin\Debug\MountainRun.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\MountainRun\obj\Debug\MountainRun.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\MountainRun\obj\Debug\MountainRun.exe
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\MountainRun\obj\Debug\MountainRun.pdb
+D:\Programming\C#\Programming Basics C#\ProgrammingBasics\ExamPreparation\MountainRun\obj\Debug\MountainRun.csprojAssemblyReference.cache
